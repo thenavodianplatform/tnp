@@ -69,7 +69,7 @@ const handleAccordion = (key: any) => {
 										<span><i className="fa-solid fa-envelope" /></span>
 									</div>
 									<div className="contact-info-text">
-										<Link href="//mailto:in@thenavodianplatform.in">in@thenavodianplatform.in</Link>
+										<Link href="//mailto:tnp.assist@gmail.com">tnp.assist@gmail.com</Link>
 									</div>
 								</div>
 								<div className="single-footer">
