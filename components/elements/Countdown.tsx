@@ -16,15 +16,31 @@ const getPartsOfTimeDuration = (duration: number) => {
 }
 
 export default function Countdown({ style }: any) {
-	const [timeDif, setTimeDif] = useState(() => {
-		const now = Date.now()
-		const endDateTime = new Date()
-		endDateTime.setMonth(1) // February (Month index starts from 0)
-		endDateTime.setDate(23) // 23rd day
-		endDateTime.setHours(12, 0, 0, 0) // 12 PM
-		return endDateTime.getTime() - now
-	})
+  const [timeDif, setTimeDif] = useState(() => {
+    const now = Date.now();
+    const endDateTime = new Date("2025-02-23T12:00:00"); // Set exact date and time
+    return endDateTime.getTime() - now;
+  });
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setTimeDif((prev) => Math.max(prev - 1000, 0)); // Decrease by 1 second
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  const formatTime = (ms: number) => {
+    const seconds = Math.floor((ms / 1000) % 60);
+    const minutes = Math.floor((ms / (1000 * 60)) % 60);
+    const hours = Math.floor((ms / (1000 * 60 * 60)) % 24);
+    const days = Math.floor(ms / (1000 * 60 * 60 * 24));
+    return `${days}d ${hours}h ${minutes}m ${seconds}s`;
+  };
+
+  return <div style={style}>{formatTime(timeDif)}</div>;
 }
+
 
 
 	useEffect(() => {
