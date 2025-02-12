@@ -19,9 +19,13 @@ export default function Countdown({ style }: any) {
 	const [timeDif, setTimeDif] = useState(() => {
 		const now = Date.now()
 		const endDateTime = new Date()
-		endDateTime.setDate(endDateTime.getDate() + 16) // Set end date 2 days from now
-				return endDateTime.getTime() - now
+		endDateTime.setMonth(1) // February (Month index starts from 0)
+		endDateTime.setDate(23) // 23rd day
+		endDateTime.setHours(12, 0, 0, 0) // 12 PM
+		return endDateTime.getTime() - now
 	})
+}
+
 
 	useEffect(() => {
 		const interval = setInterval(() => {
