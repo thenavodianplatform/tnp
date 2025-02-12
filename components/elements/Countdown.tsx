@@ -22,26 +22,6 @@ export default function Countdown({ style }: any) {
     return endDateTime.getTime() - now;
   });
 
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setTimeDif((prev) => Math.max(prev - 1000, 0)); // Decrease by 1 second
-    }, 1000);
-
-    return () => clearInterval(interval);
-  }, []);
-
-  const formatTime = (ms: number) => {
-    const seconds = Math.floor((ms / 1000) % 60);
-    const minutes = Math.floor((ms / (1000 * 60)) % 60);
-    const hours = Math.floor((ms / (1000 * 60 * 60)) % 24);
-    const days = Math.floor(ms / (1000 * 60 * 60 * 24));
-    return `${days}d ${hours}h ${minutes}m ${seconds}s`;
-  };
-
-  return <div style={style}>{formatTime(timeDif)}</div>;
-}
-
-
 
 	useEffect(() => {
 		const interval = setInterval(() => {
