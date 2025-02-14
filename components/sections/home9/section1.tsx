@@ -6,18 +6,18 @@ export default function Section1() {
 	return (
 		<>
 
-			<div className="hero9-slider-area" style={{ backgroundImage: 'url(assets/img/bg/header-bg22.png)', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center bottom' }}>
+			<div className="hero9-slider-area" style={{ backgroundImage: 'url(assets/img/bg/header-bg2.gif)', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center bottom' }}>
 				<div className="container">
 					<div className="row align-items-center">
 						<div className="col-lg-7">
 							<div className="hero8-header">
-								<h5><img src="/assets/img/icons/sub-logo1.svg" alt="" />WE ARE COMING FOR</h5>
+								<h5><img src="/assets/img/logo/fav-logo.png" alt="" />SHOWCASE TALENT, INSPIRE CREATIVITY</h5>
 								<div className="space16" />
-								<h1 className="text-anime-style-3">World Music Events 2025</h1>
+								<h1 className="text-anime-style-3">THE NAVODIAN PLATFORM</h1>
 								<div className="space32" />
 								<div className="btn-area1">
-									<Link href="/contact" className="vl-btn9"><span className="demo">Buy Tickets Now!</span></Link>
-									<Link href="/event-schedule" className="vl-btn9 btn2"><span className="demo">Schedules</span></Link>
+									<Link href="https://book.thenavodianplatform.in" className="vl-btn1"><span className="demo">Buy Tickets Now!</span></Link>
+									
 								</div>
 							</div>
 						</div>
@@ -38,9 +38,9 @@ export default function Section1() {
 									</div>
 									<div className="col-lg-5">
 										<div className="heading12">
-											<h3>30 January 2025</h3>
+											<h3>23 February 2025</h3>
 											<div className="space16" />
-											<p><img src="/assets/img/icons/location1.svg" alt="" /> Secret Location In The UK</p>
+											<p><img src="/assets/img/icons/location1.svg" alt="" /> Secret Location In The Chandigarh</p>
 										</div>
 									</div>
 								</div>
