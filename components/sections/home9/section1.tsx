@@ -23,7 +23,7 @@ export default function Section1() {
 						</div>
 						<div className="col-lg-5">
 							<div className="img1">
-								<img src="/assets/img/all-images/hero/hero-img1.png" alt="" />
+								<img src="/assets/img/all-images/hero/hero-img11.png" alt="" />
 							</div>
 						</div>
 					</div>
