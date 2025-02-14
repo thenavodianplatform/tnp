@@ -8,7 +8,7 @@ export default function Section1() {
 
 			<div className="hero1-section-area">
 				<div className="bg1">
-					<img src="/assets/img/bg/header-bg2.png" alt="" className="header-bg1" />
+					<img src="/assets/img/bg/header-bg2.gif" alt="" className="header-bg1" />
 				</div>
 				<div className="container">
 					<div className="row">
