@@ -23,7 +23,7 @@ export default function Section1() {
 						</div>
 						<div className="col-lg-5">
 							<div className="img1">
-								<img src="/assets/img/all-images/hero/hero-img11.png" alt="" />
+								<img src="/assets/img/all-images/hero/hero-img1.png" alt="" />
 							</div>
 						</div>
 					</div>
@@ -40,7 +40,7 @@ export default function Section1() {
 										<div className="heading12">
 											<h3>23 February 2025</h3>
 											<div className="space16" />
-											<p><img src="/assets/img/icons/location1.svg" alt="" /> Secret Location In The Chandigarh</p>
+											<p><img src="/assets/img/icons/location1.svg" alt="" />Chandigarh</p>
 										</div>
 									</div>
 								</div>
