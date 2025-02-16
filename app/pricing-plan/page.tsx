@@ -41,7 +41,7 @@ export default function PricingPlan() {
 									<div className="pricing-boxarea">
 										<h5>Performer</h5>
 										<div className="space20" />
-										<h2>₹359 <span>/One Person</span></h2>
+										<h2>359 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
@@ -59,7 +59,7 @@ export default function PricingPlan() {
 									<div className="pricing-boxarea">
 										<h5>Audience</h5>
 										<div className="space20" />
-										<h2>₹159 <span>/One Person</span></h2>
+										<h2>159 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
