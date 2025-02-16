@@ -36,7 +36,7 @@ export default function PricingPlan() {
 								</div>
 							</div>
 							
-							<div className="row justify-content-center">
+							<div className="row">
 								<div className="col-lg-4 col-md-6">
 									<div className="pricing-boxarea">
 										<h5>Performer</h5>
@@ -90,10 +90,10 @@ export default function PricingPlan() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 February 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
 											</li>
 										</ul>
 									</div>
