@@ -31,7 +31,7 @@ export default function PricingPlan() {
 									<div className="heading2 text-center space-margin60">
 										<h5>ticket pricing</h5>
 										<div className="space18" />
-										<h2>Event Pass &amp; Tickets</h2>
+										<h2>Event Tickets</h2>
 									</div>
 								</div>
 							</div>
@@ -55,25 +55,7 @@ export default function PricingPlan() {
 										</div>
 									</div>
 								</div>
-								<div className="col-lg-4 col-md-6">
-									<div className="pricing-boxarea">
-										<h5>Standard Packages</h5>
-										<div className="space20" />
-										<h2>$49 <span>/One Person</span></h2>
-										<div className="space8" />
-										<ul>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Venue rental</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Premium seating and tables</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Full event planning service</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Entertainment services</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Luxury transportation</li>
-										</ul>
-										<div className="space28" />
-										<div className="btn-area1">
-											<Link href="/contact" className="vl-btn1">buy a ticket</Link>
-										</div>
-									</div>
-								</div>
+								
 								<div className="col-lg-4 col-md-6">
 									<div className="pricing-boxarea">
 										<h5>Premium Packages</h5>
