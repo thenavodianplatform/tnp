@@ -16,7 +16,7 @@ export default function Section1() {
 								<h1 className="text-anime-style-3">THE NAVODIAN PLATFORM</h1>
 								<div className="space32" />
 								<div className="btn-area1">
-									<Link href="https://book.thenavodianplatform.in" className="vl-btn1"><span className="demo">Buy Tickets Now!</span></Link>
+									<Link href="/pricing-plan" className="vl-btn1"><span className="demo">Buy Tickets Now!</span></Link>
 									
 								</div>
 							</div>
