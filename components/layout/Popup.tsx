@@ -64,7 +64,7 @@ export default function Popup() {
 						</ul>
 					</div>
 					<div className="space50" />
-					<Link className="vl-btn2" href="https://book.thenavodianplatform.in/">
+					<Link className="vl-btn2" href="/pricing-plan">
 						<span className="demo">Buy Ticket Now</span>
 						<span className="arrow">
 							<i className="fa-solid fa-arrow-right" />
