@@ -76,7 +76,7 @@ export default function Section3() {
 													<p>Join us on February 23, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
 													<div className="space32" />
 													<div className="btn-area1">
-														<Link href="https://book.thenavodianplatform.in/" className="vl-btn1">purchase ticket now</Link>
+														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
 													</div>
 												</div>
 											</div>
@@ -359,7 +359,7 @@ export default function Section3() {
 													<p>Join us on March 30, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
 													<div className="space32" />
 													<div className="btn-area1">
-														<Link href="https://book.thenavodianplatform.in/" className="vl-btn1">purchase ticket now</Link>
+														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
 													</div>
 												</div>
 											</div>
