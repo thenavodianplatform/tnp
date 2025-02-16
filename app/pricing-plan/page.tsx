@@ -35,43 +35,40 @@ export default function PricingPlan() {
 									</div>
 								</div>
 							</div>
-							<div className="row">
+							
+							<div className="row justify-content-center">
 								<div className="col-lg-4 col-md-6">
 									<div className="pricing-boxarea">
-										<h5>Basic Packages</h5>
+										<h5>Performer</h5>
 										<div className="space20" />
-										<h2>$29 <span>/One Person</span></h2>
+										<h2>₹359 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Regular Seating</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Comfortable Sleeping</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Afternoon Snacks</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Afternoon Entrance</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Idea shareing</li>
-										</ul>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />23 February 2025</li>
+											
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="/contact" className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.cashfree.com/forms/performer" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
 								
 								<div className="col-lg-4 col-md-6">
 									<div className="pricing-boxarea">
-										<h5>Premium Packages</h5>
+										<h5>Audience</h5>
 										<div className="space20" />
-										<h2>$69 <span>/One Person</span></h2>
+										<h2>₹159 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Customized decor</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Top-tier catering</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Top-shelf beverage package</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Full event production</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />Luxury accommodations</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />23 February 2025</li>
 										</ul>
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="/contact " className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.cashfree.com/forms/audience" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
@@ -119,10 +116,10 @@ export default function PricingPlan() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 January 2025 - 6pm to 11:30pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 February 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The UK</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
 											</li>
 										</ul>
 									</div>
