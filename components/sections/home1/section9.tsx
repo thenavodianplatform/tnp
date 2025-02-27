@@ -19,7 +19,7 @@ export default function Section9() {
 								</div>
 								<ul>
 									<li>
-										<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 February 2025 - 12pm to
+										<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to
 											5pm</Link>
 									</li>
 									<li className="m-0">
