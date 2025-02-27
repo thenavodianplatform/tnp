@@ -26,16 +26,25 @@ export default function Section3() {
 							<div data-aos="fade-up" data-aos-duration={900}>
 								<ul className="nav nav-pills space-margin60" id="pills-tab" role="tablist">
 									
-									
+									<li className="nav-item" onClick={() => handleTab(1)}>
+										<button className={isTab == 1 ? "nav-link active" : "nav-link"} id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
+											<span className="day">Sunday</span>
+											<span className="vl-flex">
+												<span className="cal">30</span>
+												<span className="date">MAR <br />
+													2025</span>
+											</span>
+										</button>
+									</li>
 									
 									
 									<li className="nav-item" onClick={() => handleTab(5)}>
 										<button className={isTab == 5 ? "nav-link active" : "nav-link"} id="pills-contact2-tab" data-bs-toggle="pill" data-bs-target="#pills-contact2" type="button" role="tab" aria-controls="pills-contact2" aria-selected="false">
 											<span className="day">Sunday</span>
 											<span className="vl-flex">
-												<span className="cal">30</span>
-												<span className="date">MAR <br />
-													2025</span>
+												<span className="cal">TBA</span>
+												<span className="date">TBA</span>
+
 											</span>
 										</button>
 									</li>
@@ -47,7 +56,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img1.png" alt="" />
+													<img src="/assets/img/all-images/event/event-img2.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -62,9 +71,9 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">The Navodian Platform: February 23, 2025 Event!</Link>
+													<Link href="/#" className="head">The Navodian Platform: March 30, 2025 Event!</Link>
 													<div className="space16" />
-													<p>Join us on February 23, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
+													<p>Join us on March 30, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
 													<div className="space32" />
 													<div className="btn-area1">
 														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
@@ -345,9 +354,9 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/event-single" className="head">The Navodian Platform: March 30, 2025 Event!</Link>
+													<Link href="/#" className="head">The Navodian Platform: Event Date TBA!</Link>
 													<div className="space16" />
-													<p>Join us on March 30, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
+													<p>Join us for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances! Date TBA.</p>
 													<div className="space32" />
 													<div className="btn-area1">
 														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
