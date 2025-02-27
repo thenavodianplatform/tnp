@@ -41,17 +41,17 @@ export default function PricingPlan() {
 									<div className="pricing-boxarea">
 										<h5>Performer</h5>
 										<div className="space20" />
-										<h2>₹349 <span>/One Person</span></h2>
+										<h2>₹359 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />23 February 2025</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />30 March 2025</li>
 											
 										</ul>
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="https://booking.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
@@ -59,17 +59,17 @@ export default function PricingPlan() {
 									<div className="pricing-boxarea">
 										<h5>Audience</h5>
 										<div className="space20" />
-										<h2>₹149 <span>/One Person</span></h2>
+										<h2>₹159 <span>/One Person</span></h2>
 										<div className="space8" />
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />23 February 2025</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />30 March 2025</li>
 											
 										</ul>
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="https://booking.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
@@ -91,7 +91,7 @@ export default function PricingPlan() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 February 2025 - 12pm to 5pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
 												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
@@ -117,7 +117,7 @@ export default function PricingPlan() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 February 2025 - 12pm to 5pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
 												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
