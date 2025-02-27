@@ -25,16 +25,7 @@ export default function Section3() {
 						<div className="col-lg-12">
 							<div data-aos="fade-up" data-aos-duration={900}>
 								<ul className="nav nav-pills space-margin60" id="pills-tab" role="tablist">
-									<li className="nav-item" onClick={() => handleTab(1)}>
-										<button className={isTab == 1 ? "nav-link active" : "nav-link"} id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
-											<span className="day">Sunday</span>
-											<span className="vl-flex">
-												<span className="cal">23</span>
-												<span className="date">FEB <br />
-													2025</span>
-											</span>
-										</button>
-									</li>
+									
 									
 									
 									
