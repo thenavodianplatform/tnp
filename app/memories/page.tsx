@@ -186,7 +186,7 @@ export default function Memories() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 Feburary 2025 - 12pm to 5pm	</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm	</Link>
 											</li>
 											<li className="m-0">
 												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
@@ -212,7 +212,7 @@ export default function Memories() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />23 Feburary 2025 - 12pm to 5pm</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
 												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
