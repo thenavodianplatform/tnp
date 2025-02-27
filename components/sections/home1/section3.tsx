@@ -40,9 +40,9 @@ export default function Section3() {
 									
 									<li className="nav-item" onClick={() => handleTab(5)}>
 										<button className={isTab == 5 ? "nav-link active" : "nav-link"} id="pills-contact2-tab" data-bs-toggle="pill" data-bs-target="#pills-contact2" type="button" role="tab" aria-controls="pills-contact2" aria-selected="false">
-											<span className="day">Sunday</span>
+											<span className="day">TBA</span>
 											<span className="vl-flex">
-												<span className="cal">TBA</span>
+												<span className="cal">--</span>
 												<span className="date">TBA</span>
 
 											</span>
@@ -338,7 +338,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img2.png" alt="" />
+													<img src="/assets/img/all-images/event/tba.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -359,7 +359,7 @@ export default function Section3() {
 													<p>Join us for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances! Date TBA.</p>
 													<div className="space32" />
 													<div className="btn-area1">
-														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
+														
 													</div>
 												</div>
 											</div>
