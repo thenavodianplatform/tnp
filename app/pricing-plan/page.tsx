@@ -31,7 +31,7 @@ export default function PricingPlan() {
 									<div className="heading2 text-center space-margin60">
 										<h5>ticket pricing</h5>
 										<div className="space18" />
-										<h2>Event Pass &amp; Tickets</h2>
+										<h2>Event Tickets</h2>
 									</div>
 								</div>
 							</div>
