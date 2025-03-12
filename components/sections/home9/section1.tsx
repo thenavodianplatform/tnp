@@ -38,7 +38,7 @@ export default function Section1() {
 							</div>
 						</div>
 					</div>
-					<br/>
+					<br/><br/>
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="timer-bg-area">
