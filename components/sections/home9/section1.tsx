@@ -54,7 +54,7 @@ export default function Section1() {
 											<div className="space16" />
 											<p>
 												<img src="/assets/img/icons/location1.svg" alt="" />
-												The Flavour Lab, Main Market, Sector 9, Panchkula
+												The Flavour Lab, Main Market,      Sector 9, Panchkula
 											</p>
 										</div>
 									</div>
