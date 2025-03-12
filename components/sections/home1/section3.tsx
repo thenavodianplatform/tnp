@@ -67,7 +67,7 @@ export default function Section3() {
 																PM -05:00 PM <span> | </span></Link>
 														</li>
 														<li>
-															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> Chandigarh</Link>
+															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> The Flavour Lab, Main Market, Sector 9, Panchkula</Link>
 														</li>
 													</ul>
 													<div className="space20" />
