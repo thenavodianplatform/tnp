@@ -162,7 +162,7 @@ export default function Contact() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm	</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />The Flavour Lab, Main Market, Sector 9, Panchkula</Link>
 											</li>
 										</ul>
 									</div>
@@ -188,7 +188,7 @@ export default function Contact() {
 												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />30 March 2025 - 12pm to 5pm</Link>
 											</li>
 											<li className="m-0">
-												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Secret Location In The Chandigarh</Link>
+												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />The Flavour Lab, Main Market, Sector 9, Panchkula</Link>
 											</li>
 										</ul>
 									</div>
