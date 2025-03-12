@@ -29,13 +29,11 @@ export default function Section1() {
 								<div className="space16" />
 								<h1 className="text-anime-style-3">THE NAVODIAN PLATFORM</h1>
 								<div className="space32" />
-								<div className="btn-area1 flex gap-4">
+								<div className="btn-area1">
 									<Link href="/pricing-plan" className="vl-btn1">
 										<span className="demo">Buy Tickets Now!</span>
 									</Link>
-									<Link href="/event-single" className="vl-btn1">
-										<span className="demo">Event Details!</span>
-									</Link>
+									
 								</div>
 							</div>
 						</div>
