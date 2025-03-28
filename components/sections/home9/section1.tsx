@@ -33,6 +33,9 @@ export default function Section1() {
 									<Link href="/pricing-plan" className="vl-btn1">
 										<span className="demo">Buy Tickets Now!</span>
 									</Link>
+									<Link href="/event" className="vl-btn1">
+										<span className="demo">EventReviews</span>
+									</Link>
 									
 								</div>
 							</div>
