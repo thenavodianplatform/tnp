@@ -30,7 +30,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/1.webp" alt="" />
+											<img src="/assets/img/all-images/memory/1.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2023</p>
@@ -45,7 +45,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/2.webp" alt="" />
+											<img src="/assets/img/all-images/memory/2.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2023</p>
@@ -60,7 +60,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/3.webp" alt="" />
+											<img src="/assets/img/all-images/memory/3.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -76,7 +76,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/5.webp" alt="" />
+											<img src="/assets/img/all-images/memory/5.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -91,7 +91,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="assets/platform/6.webp" alt="" />
+											<img src="/assets/img/all-images/memory/6.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -106,7 +106,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/7.webp" alt="" />
+											<img src="/assets/img/all-images/memory/7.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -121,7 +121,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/8.webp" alt="" />
+											<img src="/assets/img/all-images/memory/8.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -136,7 +136,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/9.webp" alt="" />
+											<img src="/assets/img/all-images/memory/9.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -151,7 +151,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/10.webp" alt="" />
+											<img src="/assets/img/all-images/memory/10.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -166,7 +166,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/11.webp" alt="" />
+											<img src="/assets/img/all-images/memory/11.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -181,7 +181,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/12.webp" alt="" />
+											<img src="/assets/img/all-images/memory/12.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -196,7 +196,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/13.webp" alt="" />
+											<img src="/assets/img/all-images/memory/13.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -211,7 +211,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/14.webp" alt="" />
+											<img src="/assets/img/all-images/memory/14.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -226,7 +226,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/15.webp" alt="" />
+											<img src="/assets/img/all-images/memory/15.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -241,7 +241,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/16.webp" alt="" />
+											<img src="/assets/img/all-images/memory/16.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -256,7 +256,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/17.webp" alt="" />
+											<img src="/assets/img/all-images/memory/17.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -271,7 +271,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/18.webp" alt="" />
+											<img src="/assets/img/all-images/memory/18.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2024</p>
@@ -286,7 +286,7 @@ export default function Memories() {
 								<div className="col-lg-4 col-md-6">
 									<div className="memory3-boxarea">
 										<div className="img1">
-											<img src="/assets/platform/19.webp" alt="" />
+											<img src="/assets/img/all-images/memory/19.webp" alt="" />
 										</div>
 										<div className="content-area">
 											<p>Event 2025</p>
