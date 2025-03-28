@@ -32,10 +32,12 @@ export default function Section1() {
 								<div className="btn-area1">
 									<Link href="/pricing-plan" className="vl-btn1">
 										<span className="demo">Buy Tickets Now!</span>
+									</Link>&nbsp;&nbsp;
+
+									<Link href="/pricing-plan" className="vl-btn1">
+										<span className="demo">Buy Tickets Now!</span>
 									</Link>
-									<Link href="/event" className="vl-btn1">
-										<span className="demo">Event Reviews</span>
-									</Link>
+									
 									
 								</div>
 							</div>
