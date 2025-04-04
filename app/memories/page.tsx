@@ -24,15 +24,7 @@ export default function Memories() {
 					</div>
 					{/*===== HERO AREA ENDS =======*/}
 
-					<div className="row">
-						<div className="col-lg-6 m-auto">
-							<div className="heading1 text-center">
-								<h1>Recent Memories</h1>
-									<div className="space20" />
-										<Link href="/">Home <i className="fa-solid fa-angle-right" /> <span>Recent Memories</span></Link>
-									</div>
-								</div>
-							</div>
+					
 					{/*===== MEMORY AREA STARTS =======*/}
 					<div className="memory-inner-section-area sp1">
 						<div className="container">
