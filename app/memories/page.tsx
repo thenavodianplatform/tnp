@@ -25,11 +25,13 @@ export default function Memories() {
 					</div>
 					{/*===== HERO AREA ENDS =======*/}
 
+					<br/>
+
 					<div className="row">
 						<div className="col-lg-6 m-auto">
 							<div className="event-header heading2 space-margin60 text-center">
 								
-								<div className="space16" />
+								
 								<h2 className="text-anime-style-3">February 2024</h2>
 							</div>
 						</div>
