@@ -14,13 +14,13 @@ export default function Memories() {
 							<div className="row">
 								<div className="col-lg-6 m-auto">
 									<div className="heading1 text-center">
+										<h1>Recent Memories</h1>
 										<div className="space20" />
-										<h1>February 2024</h1>
-										
 										<Link href="/">Home <i className="fa-solid fa-angle-right" /> <span>Recent Memories</span></Link>
 									</div>
 								</div>
 							</div>
+
 						</div>
 					</div>
 					{/*===== HERO AREA ENDS =======*/}
