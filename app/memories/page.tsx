@@ -24,7 +24,15 @@ export default function Memories() {
 					</div>
 					{/*===== HERO AREA ENDS =======*/}
 
-					
+					<div className="row">
+						<div className="col-lg-6 m-auto">
+							<div className="event-header heading2 space-margin60 text-center">
+								<h5 data-aos="fade-left" data-aos-duration={800}>Event Schedule</h5>
+								<div className="space16" />
+								<h2 className="text-anime-style-3">Our Events Schedule Plan</h2>
+							</div>
+						</div>
+					</div>
 					{/*===== MEMORY AREA STARTS =======*/}
 					<div className="memory-inner-section-area sp1">
 						<div className="container">
