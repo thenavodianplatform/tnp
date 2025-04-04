@@ -15,8 +15,9 @@ export default function Section3() {
 					<div className="row">
 						<div className="col-lg-6 m-auto">
 							<div className="event-header heading2 space-margin60 text-center">
-								<h5 data-aos="fade-left" data-aos-duration={800}>Event Schedule</h5>
 								<div className="space16" />
+								
+								
 								<h2 className="text-anime-style-3">Our Events Schedule Plan</h2>
 							</div>
 						</div>
