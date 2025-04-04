@@ -18,7 +18,7 @@ export default function Section3() {
 								<div className="space16" />
 								
 								
-								<h2 className="text-anime-style-3">Our Events Schedule Plan</h2>
+								<h2 className="text-anime-style-3">February 2024</h2>
 							</div>
 						</div>
 					</div>
