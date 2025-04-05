@@ -30,7 +30,8 @@ export default function Memories() {
 					
 					{/*===== MEMORY AREA STARTS =======*/}
 
-					<br />
+					<div className="space20" />
+					<div className="space20" />
 
 					<div className="row">
 						<div className="col-lg-6 m-auto">
