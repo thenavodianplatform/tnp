@@ -316,6 +316,216 @@ export default function Memories() {
 										</div>
 									</div>
 								</div>
+								<div className="space20" />
+					<div className="space20" />
+					<div className="space20" />
+					<div className="space20" />
+
+					<div className="row">
+						<div className="col-lg-6 m-auto">
+							<div className="event-header heading2 space-margin60 text-center">
+								
+								
+								<h2 className="text-anime-style-3">May 2024</h2>
+							</div>
+						</div>
+					</div>
+
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/18.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/19.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/20.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/21.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/22.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/23.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/24.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/25.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/26.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/27.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/29.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/30.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div className="col-lg-4 col-md-6">
+									<div className="memory3-boxarea">
+										<div className="img1">
+											<img src="/assets/img/all-images/memory/31.png" alt="" />
+										</div>
+										<div className="content-area">
+											<p>May 2024</p>
+											<div className="space12" />
+											<Link href="/event-single">The Navodian Platform</Link>
+											<div className="plus">
+												<Link href="https://www.instagram.com/thenavodianplatform/"><i className="fa-brands fa-instagram" /></Link>
+											</div>
+										</div>
+									</div>
+								</div>
 								
 								<div className="space30" />
 								<div className="pagination-area">
