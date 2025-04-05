@@ -25,10 +25,12 @@ export default function Memories() {
 					</div>
 					{/*===== HERO AREA ENDS =======*/}
 
-					<br/>
+					
 
 					
 					{/*===== MEMORY AREA STARTS =======*/}
+
+					<br />
 
 					<div className="row">
 						<div className="col-lg-6 m-auto">
