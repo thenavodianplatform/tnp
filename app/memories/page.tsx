@@ -27,6 +27,9 @@ export default function Memories() {
 
 					<br/>
 
+					
+					{/*===== MEMORY AREA STARTS =======*/}
+
 					<div className="row">
 						<div className="col-lg-6 m-auto">
 							<div className="event-header heading2 space-margin60 text-center">
@@ -36,7 +39,6 @@ export default function Memories() {
 							</div>
 						</div>
 					</div>
-					{/*===== MEMORY AREA STARTS =======*/}
 					<div className="memory-inner-section-area sp1">
 						<div className="container">
 							<div className="row">
