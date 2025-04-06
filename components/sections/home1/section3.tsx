@@ -48,7 +48,7 @@ export default function Section3() {
 										<div className="row align-items-center">
 											<div className="col-lg-4">
 												<div className="img1">
-													<img src="/assets/img/all-images/event/event-img2.png" alt="" />
+													<img src="/assets/img/all-images/event/tba.png" alt="" />
 												</div>
 											</div>
 											<div className="col-lg-8">
@@ -59,7 +59,8 @@ export default function Section3() {
 																PM -05:00 PM <span> | </span></Link>
 														</li>
 														<li>
-															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> The Flavour Lab, Main Market, Sector 9, Panchkula</Link>
+															<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" /> Chandigarh
+</Link>
 														</li>
 													</ul>
 													<div className="space20" />
@@ -67,9 +68,7 @@ export default function Section3() {
 													<div className="space16" />
 													<p>Join us on March 30, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
 													<div className="space32" />
-													<div className="btn-area1">
-														<Link href="/pricing-plan" className="vl-btn1">purchase ticket now</Link>
-													</div>
+													
 												</div>
 											</div>
 										</div>
