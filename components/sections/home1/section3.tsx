@@ -64,9 +64,10 @@ export default function Section3() {
 														</li>
 													</ul>
 													<div className="space20" />
-													<Link href="/#" className="head">The Navodian Platform: March 30, 2025 Event!</Link>
+													<Link href="/#" className="head">The Navodian Platform: Event Date TBA!
+</Link>
 													<div className="space16" />
-													<p>Join us on March 30, 2025, for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances!</p>
+													<p>Join us for an electrifying showcase of talent at The Navodian Platform. Experience a fusion of creativity, innovation, and inspiring performances! Date TBA.</p>
 													<div className="space32" />
 													
 												</div>
