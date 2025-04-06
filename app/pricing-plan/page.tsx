@@ -46,7 +46,7 @@ export default function PricingPlan() {
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />30 March 2025</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />To Be Announced</li>
 											
 										</ul>
 										<div className="space28" />
@@ -64,7 +64,7 @@ export default function PricingPlan() {
 										<ul>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />One Day Ticket</li>
 											<li><img src="/assets/img/icons/check2.svg" alt="" />Refreshment Available</li>
-											<li><img src="/assets/img/icons/check2.svg" alt="" />30 March 2025</li>
+											<li><img src="/assets/img/icons/check2.svg" alt="" />To Be Announced</li>
 											
 										</ul>
 										<div className="space28" />
