@@ -55,7 +55,7 @@ export default function Section1() {
 									</div>
 									<div className="col-lg-5">
 										<div className="heading12">
-											<h3>To Be Announced</h3>
+											<h3>11 May 2025</h3>
 											<div className="space16" />
 											<p>
 												<img src="/assets/img/icons/location1.svg" alt="" />
