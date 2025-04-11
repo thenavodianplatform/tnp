@@ -194,7 +194,7 @@ Stand-up Comedy, StoryTelling, Beatboxing, etc.</p>
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />To Be Announced	</Link>
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />11 May 2025	</Link>
 											</li>
 											<li className="m-0">
 												<Link href="/#"><img src="/assets/img/icons/location1.svg" alt="" />Chandigarh</Link>
@@ -221,7 +221,7 @@ Stand-up Comedy, StoryTelling, Beatboxing, etc.</p>
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />To Be Announced
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />11 May 2025
 </Link>
 											</li>
 											<li className="m-0">
