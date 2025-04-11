@@ -18,7 +18,7 @@ const getPartsOfTimeDuration = (duration: number) => {
 export default function Countdown({ style }: any) {
   const [timeDif, setTimeDif] = useState(() => {
     const now = Date.now();
-    const endDateTime = new Date("2025-03-30T12:00:00"); // Set exact date and time
+    const endDateTime = new Date("2025-05-11T12:00:00"); // Set exact date and time
     return endDateTime.getTime() - now;
   });
 
