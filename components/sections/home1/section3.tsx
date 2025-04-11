@@ -35,7 +35,8 @@ export default function Section3() {
 											<span className="day">Sunday</span>
 											<span className="vl-flex">
 												<span className="cal">11</span>
-												<span className="date">May</span>
+												<span className="date">May<br />
+													2025</span>
 
 											</span>
 										</button>
