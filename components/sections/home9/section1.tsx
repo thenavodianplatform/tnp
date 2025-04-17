@@ -59,7 +59,7 @@ export default function Section1() {
 											<div className="space16" />
 											<p>
 												<img src="/assets/img/icons/location1.svg" alt="" />
-												Chandigarh
+												<a href="https://maps.app.goo.gl/d9pisy6gjzAmjoGj6" target="_blank">Next57 Coworking New</a>
 											</p>
 										</div>
 									</div>
