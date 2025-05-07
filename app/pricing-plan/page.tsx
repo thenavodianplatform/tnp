@@ -51,7 +51,7 @@ export default function PricingPlan() {
 										</ul>
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="https://book.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
@@ -69,7 +69,7 @@ export default function PricingPlan() {
 										</ul>
 										<div className="space28" />
 										<div className="btn-area1">
-											<Link href="https://book.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
+											<Link href="https://payments.thenavodianplatform.in/" className="vl-btn1">buy a ticket</Link>
 										</div>
 									</div>
 								</div>
