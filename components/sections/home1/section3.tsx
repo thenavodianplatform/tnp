@@ -32,8 +32,8 @@ export default function Section3() {
 										<button className={isTab == 1 ? "nav-link active" : "nav-link"} id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
 											<span className="day">Sunday</span>
 											<span className="vl-flex">
-												<span className="cal">11</span>
-												<span className="date">MAY <br />
+												<span className="cal">1</span>
+												<span className="date">June <br />
 													2025</span>
 											</span>
 										</button>
