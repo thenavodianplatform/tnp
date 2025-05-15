@@ -159,7 +159,7 @@ export default function Contact() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />11 May 2025
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />1 June 2025
 	</Link>
 											</li>
 											<li className="m-0">
@@ -186,7 +186,7 @@ export default function Contact() {
 										</div>
 										<ul>
 											<li>
-												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />11 May 2025
+												<Link href="/#"><img src="/assets/img/icons/calender1.svg" alt="" />1 June 2025
 </Link>
 											</li>
 											<li className="m-0">
